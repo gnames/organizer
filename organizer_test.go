@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	org "github.com/gnames/gnlib/organizer"
+	org "github.com/gnames/organizer"
 	"github.com/stretchr/testify/assert"
 )
 
